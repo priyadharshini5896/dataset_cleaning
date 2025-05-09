@@ -11,7 +11,7 @@
 
 # Files Included:
   - 'cleaned_moviesdataset.csv'
-  - 'moviesdataset'
+  - 'moviesdataset.csv'
   - 'cleaned_script.py'
 
 
